@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\ref\loopsForBreakContinue.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\bin\Debug\net5.0\loopsForBreakContinue.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\ref\loopsForBreakContinue.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\loopsForBreakContinue\obj\Debug\net5.0\loopsForBreakContinue.genruntimeconfig.cache
